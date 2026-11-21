@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Disallow: /CV_ANDRIAMANANTSOA_Rochi.pdf
